@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+a:hover {
+  background-color: rgb(195, 172, 172);
+}
+
+.BannerCard {
+  max-width: 540px;
+}
